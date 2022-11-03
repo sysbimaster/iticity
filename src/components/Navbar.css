@@ -1,0 +1,86 @@
+
+.row{
+    --bs-gutter-x: 0;
+    padding: 0px;
+    margin: 0px;
+}.itcityheader{padding: 0px 30px;
+    /* background: #f5831a; */
+    /* height: 30px; */
+}
+.iticitylogo img{
+    padding: 5px 0px;
+}
+.secondheader{
+    background: #f5831a;
+    border-bottom: 2px solid #1f1a1a;
+}
+.searchbox{
+    padding: 0px 20px;
+    margin: 4px;
+    /* width: 30%; */
+    padding: 5px;
+}
+
+
+.navlinks{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;padding-top: 14px;
+}
+ul.navlinks{
+    padding-left: 0px;
+}
+.navlist{
+    margin-right: 16px;
+    text-transform: uppercase;
+    font-size: 12px;
+    cursor: pointer;
+    color: #fff;
+}
+.select .css-1s2u09g-control{
+    background-color: hsl(345deg 5% 16%);
+    border-color: hsl(0deg 0% 100%);
+}
+.selecting .css-14el2xx-placeholder{
+    color: hsl(29deg 92% 53%);
+}
+.select .css-tlfecz-indicatorContainer {
+    color: hsl(29deg 92% 53%);}
+.selecting .css-1s2u09g-control{
+    border:none;
+}
+.selecting .css-1s2u09g-control:hover{
+    border:none;
+}
+.selecting .css-6j8wv5-Input:active{
+    border: none;
+}
+.selecting .css-1hb7zxy-IndicatorsContainer{
+    display: none;
+}
+.css-13a0j6o-JoySelect-root{
+    border-radius: 0px;
+    border: 0  solid #fff;
+}
+
+.css-1d3z3hw-MuiOutlinedInput-notchedOutline{
+    top:-3px;
+}label[data-shrink="false"] + .MuiInputBase-formControl .css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input {
+    padding: 10px;
+  }.langbutton{
+color:  rgba((245,131,26))
+  }
+  .css-jcn4dz-MuiBadge-badge{
+    background-color:  rgba((245,131,26))
+  }.css-1to51ap-MuiBadge-root .MuiBadge-badge{background-color: rgba(245,131,26)}
+  .langbutton{
+    border-color: orange;
+    width: 50%;
+    color: orange;
+  }
+  .country .css-1h4rekl-JoySelect-root{
+    border-color: orange;
+  }
+ 

@@ -1,0 +1,223 @@
+a{
+    text-decoration: none;
+color: black;
+justify-content: left;
+/* bottom: 0; */
+/* padding: 126px; */
+/* margin-top: 10px; */
+}
+.card{
+    margin: 13px;
+    border: none;
+}
+.card img{
+    width: 100%;
+}
+.cardheader{
+    /* color: #fb9124; */
+    /* color: rgb(0,0,128); */
+font-size: 25px;
+/* font-weight: bold; */
+margin: 10px;
+}
+.carddiv{
+    border: 1px solid #f5831a;
+    
+    margin: 40px 14px 40px 0px;
+}
+h6{
+    font-size: 13px;
+    text-align: center;
+    /* background: #000; */
+    color: #000;
+    margin-bottom: 0px;
+    padding-top: 6px;
+  
+
+}
+.dailydeals{
+    color: #f5831a;
+
+/* background: navy; */
+text-align: center;
+padding: 8px;
+}
+.dailydeals h3{
+    font-weight: 700;
+}
+.secondcategory{
+    padding: 40px 0px;
+    background: #e5e7e8;
+}
+.secondimage{
+    margin: 10px;
+    width: 320px;
+}
+
+.secondimage .css-46bh2p-MuiCardContent-root{
+    /* border-top: 1px solid #f5831a; */
+    /* color: #f5831a ; */
+    color: #fff;
+background: #f5831a;
+padding: 0px;
+
+}
+.secondimage2{
+   
+    width: 317px;
+    margin: 10px;
+
+    
+}
+.secondimage4
+{
+    width: 317px;
+    margin: 40px 10px 40px 10px ;
+    border: 1px solid #f5831a;
+}
+.secondimage3{
+    margin: 10px;
+}
+.secondimage2 .css-46bh2p-MuiCardContent-root{
+    color: #f5831a ;
+    text-align: center;
+}
+.secondimage2 .css-ahj2mt-MuiTypography-root{
+    font-size: 20px;
+}
+#flexbox {
+    display: flex;
+    flex-wrap: wrap;
+    /* width: 300px; */
+    row-gap: 20px;
+    column-gap: 20px;
+    padding: 10px;
+  }
+  
+  #flexbox > div {
+    /* border: 1px solid green; */
+    /* background-color: #f5831a; */
+    flex: 1 1 auto;
+    width: 100px;
+    height: 120px;
+  }
+  #flexbox > div >img{
+    width: 100%;
+  }
+  .headline{
+    padding: 10px 10px 0px 10px;
+font-size: 25px;
+
+  }
+  .flexhead{
+    font-size: 13px;
+  }
+  
+  #flexboxtop {
+    display: flex;
+    flex-wrap: wrap;
+    /* width: 300px; */
+    row-gap: 20px;
+    column-gap: 20px;
+    padding: 10px;
+  }
+  
+  #flexboxtop > div {
+    /* border: 1px solid green; */
+    /* background-color: #f5831a; */
+    flex: 1 1 auto;
+    width: 100px;
+    height: 120px;
+  }
+  #flexboxtop > div >img{
+    width: 100%;
+  }
+  .headline{
+    padding: 10px 10px 0px 10px;
+font-size: 25px;
+
+  }
+  .headlinetop{
+    background: orange;
+    padding: 5px 0px 2px 4px;
+    font-size: 17px;
+    color: #fff;
+
+  }
+  .flexhead{
+    font-size: 13px;
+  }
+  .flexheadtop{
+    font-size: 13px;
+color: #f5831a;
+  }
+  .link{
+    padding: 6px 14px 6px;
+    color: var(--bs-link-hover-color);
+    font-weight: 300;
+    font-size: 13px;
+    text-align: end;
+  }
+  .email{padding: 10px;
+    background: orange;
+    border: 0px aliceblue;
+    color: #000;
+    width: 70%;
+  }
+  .sub{
+    padding: 10px;
+    background:#000 ;
+    border: 0px aliceblue;
+    color: #fff;
+    width: 50%;
+    text-align: center;
+  }
+  .emailsub{
+   
+      /* padding: 24px; */
+  }
+  .emailhead{
+    font-size: 17px;
+    padding: 22px 20px 20px 20px;
+  }
+  .right{
+    margin:40px 20px 20px 20px; 
+  }
+  .right img{
+    width: 100%;
+    /* padding-top: 40px; */
+    /* padding: 40px 15px 10px 10px; */
+}
+.dailydeals h5{
+  font-size: 22px;
+  text-transform: full-width;font-weight: 600;
+}
+.deals {
+  color: #000;
+}
+.Boxi{
+  background: 0rznge;
+background: orange;
+border-radius: 50%;
+padding: 5px;
+margin: 10px;
+}
+.deal{
+  display: flex !important;
+justify-content: center;
+margin: 10px;
+}
+
+
+.css-1vqtlfp-JoyAspectRatio-root{
+  aspect-ratio: 100%;
+  /* AspectRatio-paddingBottom: 100%; */
+}
+.item{
+  margin: 10px auto;
+  /* margin: 12px 5px -17px 10px; */
+}
+.JoyTypography-h2{
+  text-align: center;
+  color: orange;
+}
